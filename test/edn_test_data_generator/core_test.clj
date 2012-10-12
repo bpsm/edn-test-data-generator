@@ -1,0 +1,7 @@
+(ns edn-test-data-generator.core-test
+  (:use clojure.test
+        edn-test-data-generator.core))
+
+(deftest a-test
+  (testing "FIXME, I fail."
+    (is (= 0 1))))
